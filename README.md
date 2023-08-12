@@ -17,6 +17,7 @@ A simple Discord bot built using the `discord.js` library that responds to speci
 1. Clone this repository to your local machine:
    
     git clone https://github.com/your-username/your-discord-bot.git
+    
     cd your-discord-bot
 
 2. Install the required dependencies using npm:
